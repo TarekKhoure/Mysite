@@ -51,7 +51,9 @@ body{
 a {
     color: #11999E;
 }
-
+#end{
+    color:black;
+}
 
 .skills-row{
     width:50%;
